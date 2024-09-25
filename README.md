@@ -36,7 +36,8 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 ping training.saveetha.in
 
 ## Output:
-![Screenshot (109)](https://github.com/user-attachments/assets/86aad831-b76c-4f79-af34-cdf3e40143f6)
+![Screenshot 2024-09-25 152940](https://github.com/user-attachments/assets/03f74665-b36b-4252-b88e-e367e0a5fe1c)
+
 
 ## Finding Hosting Company:
 get further detail by using ip2location.com website.
@@ -55,15 +56,15 @@ https://web.archive.org/
 nmap -p 21 -sV --script=banner ftp.vim.org
 
 ## Output:
+![Screenshot 2024-09-25 153419](https://github.com/user-attachments/assets/34e10958-643b-4c15-8035-1227aad51603)
 
-![Screenshot (107)](https://github.com/user-attachments/assets/95195721-a1ff-4d7f-9567-1e7b7bafa39c)
 
 ## Whatweb:
 
 whatweb training.saveetha.in
 
 ## Output:
-![Screenshot (108)](https://github.com/user-attachments/assets/65de4a52-9d3a-4dcb-b949-e0872d166243)
+![Screenshot 2024-09-25 153557](https://github.com/user-attachments/assets/7e1b945d-e51b-440a-9699-85d31522d912)
 
 
 ## Tracing the Location:
@@ -72,22 +73,22 @@ whatweb training.saveetha.in
 sudo traceroute -T www.google.com
 
 ## Output:
-![Screenshot (105)](https://github.com/user-attachments/assets/4b192906-3975-4d56-a130-12e810aaa2c6)
+![Screenshot 2024-09-25 153122](https://github.com/user-attachments/assets/86da6acb-b62a-4867-b320-fcee82875b53)
 
 ## UDP Traceroute:
 
 sudo traceroute -U www.google.com
 
 ## Output:
-![Screenshot (110)](https://github.com/user-attachments/assets/f938bbe2-c4e2-4f23-a3d9-042509ab2e95)
+![Screenshot 2024-09-25 153655](https://github.com/user-attachments/assets/e62978a5-d7d3-42ba-85c7-fce1933a1b14)
 
 ## ICMP Traceroute:
 
 sudo traceroute  www.google.com
 
 ## Output:
+![Screenshot 2024-09-25 153858](https://github.com/user-attachments/assets/60c6a360-ab5d-4db9-a865-3c4c9c109fb5)
 
-![Screenshot (106)](https://github.com/user-attachments/assets/7ff961f7-a420-4b78-ba6d-22de3e127e48)
 
 
 
